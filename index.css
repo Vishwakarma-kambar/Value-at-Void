@@ -284,6 +284,7 @@ h2 {
   display: flex;
   gap: 40px;
   align-items: start;
+  justify-content: center;
   padding-bottom: 2rem;
 }
 .hero__visual {
@@ -297,12 +298,12 @@ h2 {
 .hero__bg {
   position: absolute;
   z-index: -10;
-  width: 60rem;
-  top: 2rem;
+  width: 100rem;
+  top: 1.5rem;
   left: -0.5rem;
 }
 .hero__product-image {
-  width: 32.375rem;
+  width: 20.375rem;
 }
 
 .hero__meta {
